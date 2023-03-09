@@ -1,7 +1,5 @@
 <h2 align="left">Hi, I'm Zivile, nice to see you here !!! </h2>
 
-- 🔭 I’m currently working on [API with Django Rest Framework](https://github.com/Codivas/hermes)
-- 🌱 I’m currently learning **Node.js, Express and Pyhton**
 - 📢 You can speak with me in English, Português, Français or Lietuviškai
 <div>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=zivilevs&show_icons=true&locale=en&layout=compact&theme=vue" />
@@ -14,5 +12,6 @@
 <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a>
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
+<a href="https://spark.apache.org/docs/latest/api/python/index.html" target="_blank"> <img src="https://raw.githubusercontent.com/file-icons/DevOpicons/master/svg/spark.svg" alt="pyspark" width="40" height="40"/> </a>
 </div>
 
